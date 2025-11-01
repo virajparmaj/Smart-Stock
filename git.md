@@ -1,5 +1,5 @@
 ````markdown
-# 🧩 Basic Git Workflow (Beginner-Friendly)
+🧩 Basic Git Workflow (Beginner-Friendly)
 
 ## 1️⃣ Check Status
 ```bash
@@ -79,6 +79,3 @@ To https://github.com/virajparmaj/Smart-Stock.git
 ```
 
 > ✅ Your latest changes are now live on GitHub!
-
-```
-```
