@@ -1,4 +1,3 @@
-````markdown
 🧩 Basic Git Workflow (Beginner-Friendly)
 
 ## 1️⃣ Check Status
